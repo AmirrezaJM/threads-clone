@@ -1,5 +1,6 @@
-# About Project
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
+# About Project
 this is a fullStack project with nuxt3 and some third-parties to make threads-clone.
 
 ## Third-party libraries
@@ -21,7 +22,8 @@ this is a fullStack project with nuxt3 and some third-parties to make threads-cl
 
 
 ## WebAPI
-##### Shema for  
+#### Shema API
+
 
 
 ## Setup
