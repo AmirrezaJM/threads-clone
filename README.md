@@ -1,9 +1,30 @@
-# Nuxt 3 Minimal Starter
+# About Project
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+this is a fullStack project with nuxt3 and some third-parties to make threads-clone.
+
+## Third-party libraries
+- supabase
+- pinia
+- tailwind
+- vite/pwa
+- nuxt-icon 
+- prisma 
+- uuid
+
+
+## TODO
+- [ ] setup prisma.
+- [ ] PWA Project.
+- [ ] Make specific config for tailwind.
+- [ ] Add light/dark mode to project.
+- [ ] Writing test with vitest for pinia.
+
+
+## WebAPI
+##### Shema for  
+
 
 ## Setup
-
 Make sure to install the dependencies:
 
 ```bash
@@ -18,7 +39,6 @@ yarn install
 ```
 
 ## Development Server
-
 Start the development server on `http://localhost:3000`:
 
 ```bash
@@ -46,18 +66,3 @@ pnpm run build
 # yarn
 yarn build
 ```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
