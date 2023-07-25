@@ -13,6 +13,7 @@ this is a fullStack project with nuxt3 and some third-parties to make threads-cl
 - uuid
 
 
+
 ## TODO
 - [ ] setup prisma.
 - [ ] PWA Project.
@@ -22,7 +23,7 @@ this is a fullStack project with nuxt3 and some third-parties to make threads-cl
 
 
 ## WebAPI
-#### Shema API
+#### Schema API
 
 
 
